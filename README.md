@@ -15,7 +15,7 @@ I'm a passionate developer with a love for JavaScript, TypeScript, React, and da
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogeonkim1&layout=compact&theme=radical)
 
 ## 🚀 Current Projects
-- **[Project Name 1](https://github.com/dogeonkim1/project1)** - Brief description
+- **[Eureka Ssul](https://github.com/pillow12360/eureka-ssul)** - Brief description
 - **[Project Name 2](https://github.com/dogeonkim1/project2)** - Brief description
 
 ## 🏆 GitHub Trophy
