@@ -30,7 +30,8 @@ I'm a passionate developer with a love for JavaScript, TypeScript, React, and da
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogeonkim1&show_icons=true&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dogeonkim1&theme=github)
+
 
 
 > 🚀 Always learning and building amazing things!
