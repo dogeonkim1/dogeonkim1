@@ -30,6 +30,7 @@ I'm a passionate developer with a love for JavaScript, TypeScript, React, and da
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
 ---
-![Snake animation](https://github.com/dogeonkim1/dogeonkim1/blob/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogeonkim1&show_icons=true&theme=radical)
+
 
 > 🚀 Always learning and building amazing things!
