@@ -21,8 +21,8 @@ I'm a passionate developer with a love for JavaScript, TypeScript, React, and da
 ## 🏆 GitHub Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=dogeonkim1&theme=onedark)
 
-## 🏃‍♂️ Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dogeonkim1&theme=react-dark)
+## 🏃‍♂️ Solved Profile
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=caddibo4)](https://solved.ac/caddibo4)
 
 ## 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
