@@ -16,7 +16,7 @@ I'm a passionate developer with a love for JavaScript, TypeScript, React, and da
 
 ## 🚀 Current Projects
 - **[Eureka Ssul](https://github.com/pillow12360/eureka-ssul)** - Brief description
-- **[Project Name 2](https://github.com/dogeonkim1/project2)** - Brief description
+- **[Mini Project Momuk](https://github.com/mini-project-03)** - Brief description
 
 ## 🏆 GitHub Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=dogeonkim1&theme=onedark)
