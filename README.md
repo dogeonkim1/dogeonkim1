@@ -36,3 +36,47 @@ I'm a passionate developer with a love for JavaScript, TypeScript, React, and da
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dogeonkim1&theme=github)
 
 > 🚀 Always learning and building amazing things!
+
+# 프로젝트명
+
+[![Demo](https://img.shields.io/badge/demo-online-blue)](https://example.com)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Node](https://img.shields.io/badge/node-18.x-yellowgreen)](#)
+[![Build](https://img.shields.io/badge/build-passing-brightgreen)](#)
+
+## 🚀 소개
+**프로젝트명**은(는) **누구**를 위한 **무엇**이며, **어떤 문제**를 해결하기 위해 만들어졌다.  
+간단히 핵심 가치를 설명하는 한 줄 소개를 여기에 작성.
+
+## ✨ 주요 기능
+- 🔹 기능 1 — 간단한 설명
+- 🔹 기능 2 — 간단한 설명
+- 🔹 기능 3 — 간단한 설명
+- 🔹 기능 4 — 간단한 설명
+
+## 📸 데모
+![demo](./assets/demo.gif)  
+🔗 [라이브 데모 보러가기](https://example.com)
+
+## 🛠 기술 스택
+- **Frontend**: React 18, Next.js 15, Tailwind CSS
+- **Backend**: Node.js, Express, GraphQL
+- **Database**: PostgreSQL + Prisma
+- **Auth**: Auth.js (JWT + OAuth)
+- **Infra**: Vercel, AWS RDS
+- **CI/CD**: GitHub Actions
+
+## 📦 설치 & 실행
+```bash
+# 1. 클론
+git clone https://github.com/<유저명>/<레포명>.git
+cd <레포명>
+
+# 2. 의존성 설치
+npm install
+
+# 3. 환경변수 설정
+cp .env.example .env
+
+# 4. 개발 서버 실행
+npm run dev
